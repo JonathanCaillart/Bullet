@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    position:relative;
+    background-color: black;
+    
+}
+
+.target {
+    color: red;
+    background-color: red;
+    position:absolute;
+}
+
+.bullet {
+    color : blue ; 
+    background-color: blue;
+    position: absolute;
+}
+
+.player {
+    border : solid 2px;
+    position:absolute;
+    color: blue;
+    background-color: blue;
+}
